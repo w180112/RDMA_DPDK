@@ -1,4 +1,4 @@
 .DS_store
 rdma_client/client.map
 rdma_server/server.map
-vscode/*
+.vscode/*
